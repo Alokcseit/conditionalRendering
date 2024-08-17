@@ -3,8 +3,9 @@ import React from 'react'
 function InsertData() {
   return (
     <div>
-       insert data here
-       this is a blank page
+       <form>
+        
+       </form>
     </div>
   )
 }
