@@ -4,7 +4,7 @@ function InsertData() {
   return (
     <div>
        <form>
-        
+        hello
        </form>
     </div>
   )
